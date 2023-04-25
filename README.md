@@ -13,13 +13,18 @@ There is no particular attribute as of yet in the course creation process on pap
 The Settings.ps1 and Functions.ps1 files are included in the Procedure.ps1 file and the 3 are designed to work together. Configure settings to organize and create all the static, custom user-variables, make the tier-1 functions that can be re-used in procedures and recursed. Then create a 'procedure' shell file for each procedure as necessary -- currently only one.
 
 ### Settings.ps1
-Variables -- hashes, arrays, variables, dictionaries of all kinds which are typed by the user like a config
+Variables -- hashes, arrays, variables, dictionaries which are static, typed by the user, like a configuration file with all settings in one place used to programattically generate variables elsewhere.
 
 ### Functions.ps1
-Functions made by the user to be used in procedures
+Functions made by the user to be used in procedures.
 
 ### Procedure.ps1
-Procedures made of combinations of CMDlets, user-functions, and user-variables to complete some tasks.
+Procedures made of combinations of CMDlets, user-functions, and user-variables to complete some tasks such as configuring a machine for remote sessions and starting one
 
 ### DynamicPowerShell.ps1
 Example of writing then calling a dynamically written powershell script
+
+## Python
+
+### Avocado
+The folder contains a README describing a 3-step installation for a python server presenting a one-page dashboard with analysis of Avocados sales using Dash in Python 3.
