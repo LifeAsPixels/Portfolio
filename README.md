@@ -27,4 +27,4 @@ Example of writing then calling a dynamically written powershell script
 ## Python
 
 ### Avocado
-The folder contains a README describing a 3-step installation for a python server presenting a one-page dashboard with analysis of Avocados sales using Dash in Python 3.
+The folder contains a README describing a 3-step installation for a python server presenting a one-page dashboard with analysis of Avocado sales using Dash in Python 3.
