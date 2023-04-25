@@ -26,7 +26,7 @@ SELECT TOP (10)
       ,[Business_Phone]
       ,[Building_Code]
       ,[Room_No]
-  FROM [PS_HCM_ODS].[sds].[PERSON_ATTRIBUTES]
+  FROM [HR_DB].[sds].[PERSON_ATTRIBUTES]
 
   WHERE [CompanyName_Email] LIKE @identityLookup
 		OR [Alternate_Email] LIKE @identityLookup
