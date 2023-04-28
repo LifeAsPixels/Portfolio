@@ -19,10 +19,10 @@ Variables -- hashes, arrays, variables, dictionaries which are static, typed by 
 Functions made by the user to be used in procedures.
 
 ### Procedure.ps1
-Procedures made of combinations of CMDlets, user-functions, and user-variables to complete some tasks such as configuring a machine for remote sessions and starting one
+Procedures made of combinations of CMDlets, user-functions, and user-variables to complete some tasks such as configuring and starting remote sessions.
 
 ### DynamicPowerShell.ps1
-Example of writing then calling a dynamically written powershell script
+Example of writing then calling a dynamically written powershell script.
 
 ## Python
 
