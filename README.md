@@ -2,7 +2,7 @@
 
 # Code Samples
 
-## Python
+## [Python](/Python)
 
 ### [bs4-PageScrape.py](/Python/bs4-PageScrape.py)
 Scrape data from a page and save locally as csv
