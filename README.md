@@ -14,14 +14,16 @@ Cross DB query for attributes and conditions to identify EL courses historically
 There is no particular attribute as of yet in the course creation process 'on paper' nor in the database to identify which courses qualify as experiental learning credits. This has made the process of finding EL courses for students difficult and underrepresented during course registration. Courses that qualify as experiental learning have varied criteria. Qualifying courses are determined by a combination of each college's criteria and the university's criteria. 
 
 ## [PowerShell](/Powershell)
-Files I use to configure a new installation of Windows to my specifications.
+Shell scripts I use to configure a new installation of Windows to my specifications.
 
-The Settings.ps1 and Functions.ps1 files are included in the Procedure.ps1 file and the 3 are designed to work together. Configure settings to organize and create all the static, custom user-variables; make the tier-1 functions that can be re-used in procedures and recursed. Then create a 'procedure' shell file for each procedure as necessary so they can be defined and run selectively as a file -- currently only one here.
+Use Settings.ps1 to create the user-variables and parameters. Use Functions.ps1 to make the low-level functions for use and recursion in procedures. Then use one procedure file for each procedure as necessary so they can be defined and run selectively as a file -- currently only one here. Imagine: one user, multiple machines, different configurations for each, but similar ie: this is effectively a way to create a template for a custom user config on VMs, or, rather define the template after some software cofig.
 
 ### [Settings.ps1](/PowerShell/Settings.ps1)
-Variables -- hashes, arrays, variables, dictionaries which are static, typed by the user.
+Static-value variables of all kinds typed by the user.
+#### In-Particular
+Paths, Network and PC configurations, regex.
 #### Why
-All settings in one place used to programattically generate variables elsewhere, and passed as parameters in functions and procedures.
+All settings in one place used to programattically generate variables here and elsewhere, and passed as parameters in functions and procedures.
 
 ### [Functions.ps1](/PowerShell/Functions.ps1)
 Low-level code relative to the language made by the user.
