@@ -3,12 +3,8 @@
 ## SQL
 Written for t-SQL on SQLServer
 
-[ID_Search_HR.ps1](/SQL/ID_Search_HR.ps1)
-[ID_Search_HR.ps1]([/SQL/ID_Search_HR.ps1](https://github.com/LifeAsPixels/Portfolio/tree/main/SQL))
-[ID_Search_HR.ps1]([/SQL/ID_Search_HR.ps1](/tree/main/SQL))
-[ID_Search_HR.ps1](/tree/main/SQL)
 [ID_Search_HR.ps1](/SQL)
-[ID_Search_HR.ps1](https://github.com/LifeAsPixels/Portfolio/tree/main/SQL)
+[ID_Search_HR.ps1](SQL/Experiential_Learning_Course.sql)
 
 ### ID_Search_HR.sql
 Returns contact information from matches in an ID search.
