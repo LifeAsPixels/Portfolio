@@ -1,4 +1,11 @@
-# Code Samples -- PowerShell, SQL, Python
+# [LifeAsPixels GitHub Site](https://lifeaspixels.github.io/)
+
+# Code Samples -- Python, SQL, PowerShell
+
+## Python
+
+### [Avocado](/Avacado)
+Python app using Dash and Pandas. Contains a README with 3-step instructions to run this python server locally. Presents a one-page dashboard with analysis of Avocado sales. [Link to live site.](http://lifeaspixels.pythonanywhere.com/)
 
 ## [SQL](/SQL)
 Written for t-SQL on SQLServer
@@ -39,8 +46,3 @@ A procedure can be read in-place to comprehend the entirety of some action at a 
 
 ### [DynamicPowerShell.ps1](/PowerShell/DynamicPowerShell.ps1)
 Example of writing then calling a dynamically written powershell script.
-
-## Python
-
-### [Avocado](/Avacado)
-The folder contains a README describing a 3-step installation for a python server presenting a one-page dashboard with analysis of Avocado sales using Dash and Pandas in Python 3.
