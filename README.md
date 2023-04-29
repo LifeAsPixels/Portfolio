@@ -44,7 +44,7 @@ Low-level code relative to the language made by the user.
 Use as the building blocks in procedures. Every time a code block needs to be re-written, make the code-block a function instead, then replace the code-block with a function call.
 
 ### [Procedure.ps1](/PowerShell/Procedure.ps1)
-Wrap code-blocks that complete a high-level task in a user-function labelled 'procedure-'. Call the procedure to conduct a high-level task. Example:
+Wrap code-blocks that complete a high-level task in a user-function labelled 'procedure-'. Call the procedure to conduct a high-level task. Example EOF:
 ```
 Procedure-InstallApplications
 Procedure-NetworkConfig
