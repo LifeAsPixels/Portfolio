@@ -12,7 +12,7 @@ Call these functions in a process file.
 LifeAsPixels
 
 # INCLUDE #>
-# DO NOT INCLUDE HERE
+# DO NOT INCLUDE HERE -- you could but dont
 <#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#>
 
 <#********************************************************************

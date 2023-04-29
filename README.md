@@ -1,11 +1,14 @@
 # [LifeAsPixels GitHub Site](https://lifeaspixels.github.io/)
 
-# Code Samples -- Python, SQL, PowerShell
+# Code Samples
 
 ## Python
 
-### [Avocado](/Avacado)
-Python app using Dash and Pandas. Contains a README with 3-step instructions to run this python server locally. Presents a one-page dashboard with analysis of Avocado sales. [Link to live site.](http://lifeaspixels.pythonanywhere.com/)
+### [bs4-PageScrape.py](/Python/bs4-PageScrape.py)
+Scrape data from a page and save locally as csv
+
+### [Avocado](/Python/Avacado)
+Python app using Dash and Pandas. Main file is [app.py](/Python/Avocado/app.py). Folder contains a [README](/Python/Avocado/README.md) with 3-step instructions to run this python server locally. Presents a one-page dashboard with analysis of Avocado sales. [Link to live site.](http://lifeaspixels.pythonanywhere.com/). More live examples can be found on my [LifeAsPixels GitHub Site](https://lifeaspixels.github.io/)
 
 ## [SQL](/SQL)
 Written for t-SQL on SQLServer

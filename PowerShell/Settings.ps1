@@ -12,7 +12,7 @@ use vars here as parameters for function calls in a process-file
 LifeAsPixels
 
 # INCLUDE #>
-# DO NOT INCLUDE HERE
+# DO NOT INCLUDE HERE -- like dont... really is supposed to be a top file
 <#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#>
 
 <#********************************************************************
