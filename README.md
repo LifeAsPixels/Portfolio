@@ -54,7 +54,7 @@ Procedure-ImportProfiles
 #### In-Particular
 Imports fonts, enables RDP, remote PowerShell sessions, file-sharing on a workgroup, share folders to network, map network drives, add workgroup members, import previously configured app profile files.
 #### Why
-A procedure can be read in-place to comprehend the entirety of some action at a high-level and can be run as a file to complete a task statically or dynamically based on settings.ps1 and environment variables.
+A procedure can be read in-place to comprehend the entirety of some action at a high-level and can be run as a file to complete a task statically or dynamically based on user-and-environment variables.
 
 ### [DynamicPowerShell.ps1](/PowerShell/DynamicPowerShell.ps1)
 Example of writing then calling a dynamically written powershell script.
