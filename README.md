@@ -45,7 +45,7 @@ Use as the building blocks in procedures. Every time a code block needs to be re
 
 ### [Procedure.ps1](/PowerShell/Procedure.ps1)
 Wrap code-blocks that complete a high-level task in a user-function labelled 'procedure-'. Call the procedure to conduct a high-level task. Example:
-  "Install-ApplicationsAll -Source C:\AppArchive"
+    "Install-ApplicationsAll -Source C:\AppArchive"
 #### In-Particular
 Imports fonts, enables RDP, remote PowerShell sessions, file-sharing on a workgroup, share folders to network, map network drives, add workgroup members, import previously configured app profile files.
 #### Why
